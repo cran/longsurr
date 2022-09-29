@@ -1,0 +1,7 @@
+0d8451663c0c67eb7a158711c8b9a6a8 *DESCRIPTION
+b42db14c6d5884c46e1bdfa4e4875789 *NAMESPACE
+dd49ee7a9905a1e7365fbaacc712ce23 *R/longsurr.functions.R
+e97706d6925af94fa727faf223d0ff60 *data/full_data.RData
+479f3ca7eb74d0fac40c23fd7312dd37 *man/estimate_surrogate_value.Rd
+fd98a2a7f0f890da770a63139188ea4e *man/full_data.Rd
+be04faf10e9f006f605343a076f07dcc *man/presmooth_data.Rd
